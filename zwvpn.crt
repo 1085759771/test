@@ -1,0 +1,99 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CN, ST=BJ, L=Beijing, O=BUPT, OU=BUPT, CN=BUPT CA/name=EasyRSA/emailAddress=1085759771@qq.com
+        Validity
+            Not Before: Feb 13 12:28:18 2018 GMT
+            Not After : Feb 11 12:28:18 2028 GMT
+        Subject: C=CN, ST=BJ, L=Beijing, O=BUPT, OU=BUPT, CN=zwvpn/name=EasyRSA/emailAddress=1085759771@qq.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e0:fd:20:64:f0:47:fa:70:9d:29:19:42:33:3b:
+                    a4:f2:ba:7f:ce:89:c1:24:53:8a:ea:69:a9:fa:e4:
+                    ba:c5:13:c1:a6:e1:97:5d:cd:59:8d:5a:45:08:84:
+                    6c:c2:28:09:ab:30:83:02:f3:e8:ab:d2:11:84:19:
+                    54:6d:2d:12:9d:5e:91:da:f6:10:60:1d:65:1f:21:
+                    5b:e7:84:4b:d0:ac:ff:ef:9b:bd:01:bb:0f:a2:dd:
+                    49:aa:1e:65:03:91:60:71:87:ae:df:ab:e9:85:0a:
+                    63:c0:8e:b9:d9:8a:0a:4c:95:ed:75:d3:b9:d9:8f:
+                    0b:1d:16:17:a6:83:fa:7f:88:03:47:c6:86:cd:2a:
+                    76:85:28:77:c3:c7:23:22:12:4e:67:96:5a:d7:76:
+                    89:5b:fc:33:e6:51:3f:f0:94:d4:44:e4:d2:ff:9e:
+                    4e:40:a3:e6:f2:11:f7:8b:0a:31:24:45:cf:cd:01:
+                    fa:a0:eb:c4:65:fa:d8:5c:de:59:f8:26:ec:af:a6:
+                    51:86:2a:47:b5:99:04:10:95:aa:21:65:2a:0d:ae:
+                    14:f4:0c:66:fe:b5:3f:72:05:e9:99:2b:b9:d5:d2:
+                    73:b0:4c:1c:8d:6b:fe:04:95:95:3e:22:57:ce:39:
+                    b2:b9:3d:cd:e8:ae:6c:e4:75:a0:f8:04:b2:7c:b9:
+                    3a:bf
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                BB:83:34:77:61:14:E3:95:07:5D:3D:EB:55:F6:3C:50:4E:32:86:7E
+            X509v3 Authority Key Identifier: 
+                keyid:EB:B2:92:84:19:1C:7C:4B:51:A2:CD:1C:A7:2C:F0:A4:36:31:55:16
+                DirName:/C=CN/ST=BJ/L=Beijing/O=BUPT/OU=BUPT/CN=BUPT CA/name=EasyRSA/emailAddress=1085759771@qq.com
+                serial:85:C6:A0:CA:86:12:B0:A7
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:zwvpn
+    Signature Algorithm: sha256WithRSAEncryption
+         5d:38:05:53:99:b5:b0:20:fc:b4:05:78:ca:52:d7:6f:06:62:
+         6d:8f:b8:34:93:5a:6b:19:a7:59:94:23:8a:5d:2c:da:24:46:
+         b1:6d:93:2b:00:43:02:1d:ee:19:88:94:54:89:9b:40:26:13:
+         a7:c5:1d:eb:d7:61:9f:71:a0:5b:a2:5d:88:f7:da:0e:c7:1b:
+         62:ad:f7:f8:f1:0d:66:1a:a7:c5:55:72:9a:fa:73:fc:b7:30:
+         d8:98:d4:67:a3:71:b9:ba:58:9c:6d:62:94:4e:12:7f:b2:5e:
+         37:a2:30:8b:08:d8:75:53:9d:ec:52:4f:3f:37:09:97:4a:a7:
+         0f:76:67:11:87:ab:d9:80:9b:90:c5:ed:28:8a:d1:92:c5:73:
+         53:0c:08:d7:41:c0:c7:f8:c0:c9:bb:66:0b:b8:d4:df:90:f5:
+         da:33:13:1a:63:87:3e:83:04:4f:b8:86:4a:cd:94:db:1c:41:
+         a4:55:5b:12:ce:90:b1:19:94:17:02:cf:dd:74:06:6f:d7:c7:
+         2a:3e:73:6e:81:39:f1:06:05:47:ba:19:3c:7e:09:f9:90:55:
+         8e:be:7c:32:a3:a6:84:4a:df:fb:f4:e9:37:fe:10:13:1d:00:
+         db:77:05:1a:ef:eb:c1:fd:1e:08:60:60:a6:e8:d3:3d:4a:70:
+         d6:2c:84:f8
+-----BEGIN CERTIFICATE-----
+MIIFEDCCA/igAwIBAgIBATANBgkqhkiG9w0BAQsFADCBkDELMAkGA1UEBhMCQ04x
+CzAJBgNVBAgTAkJKMRAwDgYDVQQHEwdCZWlqaW5nMQ0wCwYDVQQKEwRCVVBUMQ0w
+CwYDVQQLEwRCVVBUMRAwDgYDVQQDEwdCVVBUIENBMRAwDgYDVQQpEwdFYXN5UlNB
+MSAwHgYJKoZIhvcNAQkBFhExMDg1NzU5NzcxQHFxLmNvbTAeFw0xODAyMTMxMjI4
+MThaFw0yODAyMTExMjI4MThaMIGOMQswCQYDVQQGEwJDTjELMAkGA1UECBMCQkox
+EDAOBgNVBAcTB0JlaWppbmcxDTALBgNVBAoTBEJVUFQxDTALBgNVBAsTBEJVUFQx
+DjAMBgNVBAMTBXp3dnBuMRAwDgYDVQQpEwdFYXN5UlNBMSAwHgYJKoZIhvcNAQkB
+FhExMDg1NzU5NzcxQHFxLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAOD9IGTwR/pwnSkZQjM7pPK6f86JwSRTiuppqfrkusUTwabhl13NWY1aRQiE
+bMIoCaswgwLz6KvSEYQZVG0tEp1ekdr2EGAdZR8hW+eES9Cs/++bvQG7D6LdSaoe
+ZQORYHGHrt+r6YUKY8COudmKCkyV7XXTudmPCx0WF6aD+n+IA0fGhs0qdoUod8PH
+IyISTmeWWtd2iVv8M+ZRP/CU1ETk0v+eTkCj5vIR94sKMSRFz80B+qDrxGX62Fze
+Wfgm7K+mUYYqR7WZBBCVqiFlKg2uFPQMZv61P3IF6ZkrudXSc7BMHI1r/gSVlT4i
+V845srk9zeiubOR1oPgEsny5Or8CAwEAAaOCAXMwggFvMAkGA1UdEwQCMAAwEQYJ
+YIZIAYb4QgEBBAQDAgZAMDQGCWCGSAGG+EIBDQQnFiVFYXN5LVJTQSBHZW5lcmF0
+ZWQgU2VydmVyIENlcnRpZmljYXRlMB0GA1UdDgQWBBS7gzR3YRTjlQddPetV9jxQ
+TjKGfjCBxQYDVR0jBIG9MIG6gBTrspKEGRx8S1GizRynLPCkNjFVFqGBlqSBkzCB
+kDELMAkGA1UEBhMCQ04xCzAJBgNVBAgTAkJKMRAwDgYDVQQHEwdCZWlqaW5nMQ0w
+CwYDVQQKEwRCVVBUMQ0wCwYDVQQLEwRCVVBUMRAwDgYDVQQDEwdCVVBUIENBMRAw
+DgYDVQQpEwdFYXN5UlNBMSAwHgYJKoZIhvcNAQkBFhExMDg1NzU5NzcxQHFxLmNv
+bYIJAIXGoMqGErCnMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAsGA1UdDwQEAwIFoDAQ
+BgNVHREECTAHggV6d3ZwbjANBgkqhkiG9w0BAQsFAAOCAQEAXTgFU5m1sCD8tAV4
+ylLXbwZibY+4NJNaaxmnWZQjil0s2iRGsW2TKwBDAh3uGYiUVImbQCYTp8Ud69dh
+n3GgW6JdiPfaDscbYq33+PENZhqnxVVymvpz/Lcw2JjUZ6NxubpYnG1ilE4Sf7Je
+N6IwiwjYdVOd7FJPPzcJl0qnD3ZnEYer2YCbkMXtKIrRksVzUwwI10HAx/jAybtm
+C7jU35D12jMTGmOHPoMET7iGSs2U2xxBpFVbEs6QsRmUFwLP3XQGb9fHKj5zboE5
+8QYFR7oZPH4J+ZBVjr58MqOmhErf+/TpN/4QEx0A23cFGu/rwf0eCGBgpujTPUpw
+1iyE+A==
+-----END CERTIFICATE-----
